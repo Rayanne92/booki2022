@@ -10,5 +10,10 @@
 - Implémenter une interface responsive.
 
 
+**Technologies**
+- HTML5
+- CSS3
+
+
 **Résultat**
 ![Booki](https://github.com/Rayanne92/booki2022-rayanne/assets/103422010/5d850283-c0ce-4f6b-9819-60746613ff24)
